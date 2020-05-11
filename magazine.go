@@ -1,6 +1,6 @@
 package magazine
 type Subscriber struct {
 	name string
-	rate float64
+	Rate float64
 	active bool
 }
